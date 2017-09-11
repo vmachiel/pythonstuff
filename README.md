@@ -13,3 +13,4 @@ Uses a simple GUI to test out GUI building
 *tweetdelete*: used to delete old tweets and favs from your twitter profile. You chose
 how many day's worth of tweets you want to keep.
 
+*redditwiper*: Deletes old posts and comments from reddit.
